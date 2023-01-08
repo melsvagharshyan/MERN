@@ -1,0 +1,14 @@
+@import 'react-toastify/dist/ReactToastify.css';
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    body{
+    background:rgb(33,41,45)!important;
+    font-family: 'Poppins', sans-serif;
+    }
+}
